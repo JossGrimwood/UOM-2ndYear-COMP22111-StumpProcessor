@@ -1,0 +1,19 @@
+
+`timescale 1ns / 10ps
+
+module test;
+
+
+
+
+Stump_ALU_test top(); 
+ 
+
+`ifdef verilog
+
+ //please enter any additional verilog stimulus in the /home/m31181jg/Cadence/COMP22111/Stump_ALU_test_run1/testfixture.verilog file
+`include "/home/m31181jg/Cadence/COMP22111/Stump_ALU_test_run1/testfixture.verilog"
+
+`endif
+
+endmodule 

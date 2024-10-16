@@ -1,0 +1,28 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "Stump_ALU_test"
+  repList "behavioral functional system verilog pld_verilog lai_verilog lmsi_verilog schematic symbol"
+  stopList "verilog pld_verilog lai_verilog lmsi_verilog symbol"
+  hierDelim "."
+  hierPrefix "test.top"
+  globalHierPrefix "cds_globals."
+  netlistDir "/home/m31181jg/Cadence/COMP22111/Stump_ALU_test_run1"
+  busRef   "ORDERED"
+  netType   "BUS"
+  leftStr  "["
+  rangeStr  ":"
+  rightStr  "]"
+ )
+( defbus
+( "flags_out" 3 0  "flags_out" 3 0  )
+( "result" 15 0  "result" 15 0  )
+( "operand_A" 15 0  "operand_A" 15 0  )
+( "operand_B" 15 0  "operand_B" 15 0  )
+( "func" 2 0  "func" 2 0  )
+ )
+( model
+( "Stump/Stump_ALU_test/functional" "Stump_ALU_test" )
+ )
+( "Stump_ALU_test" "ihnl/cds0/map" )
+ )

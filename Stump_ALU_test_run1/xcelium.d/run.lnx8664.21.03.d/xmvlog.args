@@ -1,0 +1,32 @@
+//
+// File created by:  xmxlmode
+// Do not modify this file
+//
+-XLMODE
+./xcelium.d/run.lnx8664.21.03.d
+-RUNMODE
+-YDIR
+/cadtools5/xil_cds_design_kits/verilog/unisims
+-LIBEXT
+.v
+/home/m31181jg/Cadence/COMP22111/Stump_ALU_test_run1/testfixture.template
+/home/m31181jg/Cadence/COMP22111/Stump/Stump_ALU/functional/verilog.v
+/home/m31181jg/Cadence/COMP22111/Stump/Stump_ALU_test/functional/verilog.v
+ihnl/cds0/netlist
+/cadtools5/Xilinx_14.7/14.7/ISE_DS/ISE/verilog/src/glbl.v
+-INCDIR
+..
+-CDSLIB
+./xcelium.d/run.lnx8664.21.03.d/cdsrun.lib
+-NOSTDOUT
+-NOCOPYRIGHT
+-neverwarn
+-nostdout
+-nocopyright
+-HDLVAR
+./xcelium.d/run.lnx8664.21.03.d/hdlrun.var
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./xcelium.d/run.lnx8664.21.03.d/xllibs
+-ALLOWUNBOUND

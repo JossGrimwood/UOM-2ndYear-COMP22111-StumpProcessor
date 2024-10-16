@@ -1,0 +1,44 @@
+//
+// File created by:  xmxlmode
+// Do not modify this file
+//
++delay_mode_path
++typdelays
++libext+.v
++incdir+..
++nccdslib+../cds.lib
++nostdout
++nocopyright
+"+ncvlogargs+ -neverwarn -nostdout -nocopyright "
+"+ncelabargs+ -neg_tchk  -nonotifier  -sdf_NOCheck_celltype  -access +r  -access +w  -access +c  -pulse_e 100  -pulse_r 100  -neverwarn  -timescale 1ns/10ps -nostdout -nocopyright"
+"+ncsimargs+ -neverwarn  -nocopyright -gui -input /home/m31181jg/Cadence/COMP22111/Stump_ALU_test_run1/.simTmpNCCmd "
++mpssession+virtuoso91003
++mpshost+E-10CKILF1621.it.manchester.ac.uk
+-NOSTDOUT
+-NOCOPYRIGHT
+-neverwarn
+-nocopyright
+-gui
+-input
+/home/m31181jg/Cadence/COMP22111/Stump_ALU_test_run1/.simTmpNCCmd
+-MPSSESSION
+virtuoso91003
+-MPSHOST
+E-10CKILF1621.it.manchester.ac.uk
+-MESSAGES
++EMGRLOG
+simout.tmp
+-XLSTIME
+1665657405
+-XLKEEP
+-XLMODE
+./xcelium.d/run.lnx8664.21.03.d
+-RUNMODE
+-CDSLIB
+./xcelium.d/run.lnx8664.21.03.d/cds.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.21.03.d/hdl.var
+-XLNAME
+xmxlmode
+-XLVERSION
+"TOOL:	xmxlmode	21.03-s009"

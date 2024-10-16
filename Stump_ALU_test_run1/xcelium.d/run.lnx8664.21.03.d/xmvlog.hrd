@@ -1,0 +1,16 @@
+//
+// File created by:  xmxlmode
+// Do not modify this file
+//
+-YDIR
+/cadtools5/xil_cds_design_kits/verilog/unisims
+-LIBEXT
+.v
+-INCDIR
+..
+
+-neverwarn
+
+-nostdout
+
+-nocopyright

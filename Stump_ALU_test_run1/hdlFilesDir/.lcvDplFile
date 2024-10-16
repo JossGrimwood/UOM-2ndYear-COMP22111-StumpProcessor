@@ -1,0 +1,8 @@
+tmLCVDPLList = '((nil viewType "netlist" viewName "functional"
+    cellName "Stump_ALU" libName "Stump"
+    ) 
+    (nil viewType "netlist" viewName "functional"
+    cellName "Stump_ALU_test" libName "Stump"
+    )
+)
+xxxInternalGlobAliasList = '(nil)

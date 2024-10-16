@@ -1,0 +1,3 @@
+cellViewCounterTable = makeTable('cellViewCounterTableType nil)
+cellViewCounterTable['("Stump" "Stump_ALU" "symbol" )] =  163
+cellViewCounterTable['("Stump" "Stump_ALU_test" "functional" )] =  290

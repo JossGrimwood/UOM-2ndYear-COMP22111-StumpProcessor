@@ -1,0 +1,7 @@
+simFuncDPLList = '((nil libName "Stump" cellName "Stump_ALU_test"
+    viewName "functional" filePath "/home/m31181jg/Cadence/COMP22111/Stump/Stump_ALU_test/functional/verilog.v"
+    ) 
+    (nil libName "Stump" cellName "Stump_ALU"
+    viewName "functional" filePath "/home/m31181jg/Cadence/COMP22111/Stump/Stump_ALU/functional/verilog.v"
+    )
+)

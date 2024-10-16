@@ -1,0 +1,22 @@
+
+`timescale 1ns / 10ps
+
+module test;
+
+
+// Buses in the design
+
+wire  [2:0]  func;
+
+wire  [15:0]  operand_B;
+
+wire  [15:0]  operand_A;
+
+wire  [15:0]  result;
+
+wire  [3:0]  flags_out;
+
+
+
+Stump_ALU_test top(); 
+ 

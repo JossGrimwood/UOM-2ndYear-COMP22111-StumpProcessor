@@ -1,0 +1,22 @@
+// Verilog HDL and netlist files of
+// "Stump Stump_ALU_test functional"
+
+// HDL models
+
+// HDL file - Stump, Stump_ALU, functional.
+/home/m31181jg/Cadence/COMP22111/Stump/Stump_ALU/functional/verilog.v
+
+// HDL file for Stump, Stump_ALU_test, functional.
+/home/m31181jg/Cadence/COMP22111/Stump/Stump_ALU_test/functional/verilog.v
+
+
+
+// End HDL models
+
+// Netlisted models
+
+// netlist file - Stump, Stump_ALU_test, functional.
+ihnl/cds0/netlist
+
+
+// End HDL models
